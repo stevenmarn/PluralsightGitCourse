@@ -1,0 +1,10 @@
+Initial File2 text in master branch
+
+Some other changes to file2  blah blah
+
+Corrected log file
+
+Added new feature
+
+Git v.2.0
+
