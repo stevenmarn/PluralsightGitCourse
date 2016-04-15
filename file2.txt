@@ -6,3 +6,5 @@ Corrected log file
 
 Added new feature
 
+Git v.2.0
+
